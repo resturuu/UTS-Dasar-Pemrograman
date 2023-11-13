@@ -1,0 +1,26 @@
+.Identitas {
+  display: flex;
+  flex-direction: column;
+}
+
+.Identitas h3 {
+  margin-top: 0px;
+  margin-bottom: 10;
+}
+
+.Identitas span {
+  margin-bottom: 5px;
+}
+
+.Identitas a {
+  text-decoration: none;
+  color: blue;
+}
+
+.Materi h3 {
+  margin-top: 30px;
+}
+
+.Materi li {
+  margin-top: 10px;
+}
